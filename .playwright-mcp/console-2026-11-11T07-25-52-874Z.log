@@ -1,0 +1,13 @@
+[   63525ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_compiled_next-devtools_index_1dd7fb59.js:1
+[  121370ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_f3530cac._.js:2298
+[  151779ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ http://localhost:3001/_next/static/chunks/%5Bturbopack%5D_browser_dev_hmr-client_hmr-client_ts_c7192189._.js:1
+[  151830ms] ChunkLoadError: Failed to load chunk /_next/static/chunks/%5Bturbopack%5D_browser_dev_hmr-client_hmr-client_ts_c7192189._.js from module [turbopack]/browser/dev/hmr-client/hmr-client.ts [app-client] (ecmascript, async loader)
+    at http://localhost:3001/_next/static/chunks/turbopack-_23a915ee._.js:656:25
+    at async Promise.all (index 1)
+[  151870ms] [ERROR] WebSocket connection to 'ws://localhost:3001/_next/webpack-hmr?id=5pH6bscaB-UJ3ufuVODjF' failed: Error during WebSocket handshake: net::ERR_CONNECTION_RESET @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_client_17643121._.js:10879
+[  182923ms] [ERROR] WebSocket connection to 'ws://localhost:3001/_next/webpack-hmr?id=5pH6bscaB-UJ3ufuVODjF' failed: Error during WebSocket handshake: net::ERR_CONNECTION_RESET @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_client_17643121._.js:10879
+[  213976ms] [ERROR] WebSocket connection to 'ws://localhost:3001/_next/webpack-hmr?id=5pH6bscaB-UJ3ufuVODjF' failed: Error during WebSocket handshake: net::ERR_CONNECTION_RESET @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_client_17643121._.js:10879
+[  245006ms] [ERROR] WebSocket connection to 'ws://localhost:3001/_next/webpack-hmr?id=5pH6bscaB-UJ3ufuVODjF' failed: Error during WebSocket handshake: net::ERR_CONNECTION_RESET @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_client_17643121._.js:10879
+[  276060ms] [ERROR] WebSocket connection to 'ws://localhost:3001/_next/webpack-hmr?id=5pH6bscaB-UJ3ufuVODjF' failed: Error during WebSocket handshake: net::ERR_CONNECTION_RESET @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_client_17643121._.js:10879
+[  307106ms] [ERROR] WebSocket connection to 'ws://localhost:3001/_next/webpack-hmr?id=5pH6bscaB-UJ3ufuVODjF' failed: Error during WebSocket handshake: net::ERR_CONNECTION_RESET @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_client_17643121._.js:10879
+[  321015ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ http://localhost:8090/actuator/health:1

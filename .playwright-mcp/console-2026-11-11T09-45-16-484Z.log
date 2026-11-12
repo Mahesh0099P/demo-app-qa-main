@@ -1,0 +1,5 @@
+[   64674ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ http://localhost:3001/_next/static/chunks/%5Bturbopack%5D_browser_dev_hmr-client_hmr-client_ts_956a0d3a._.js:1
+[   64678ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ http://localhost:3001/_next/static/chunks/app_globals_71f961d1.css:1
+[   64740ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:1
+[   64753ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_compiled_next-devtools_index_1dd7fb59.js:1
+[   64753ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_compiled_react-server-dom-turbopack_9212ccad._.js:1

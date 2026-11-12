@@ -1,0 +1,28 @@
+- generic [active] [ref=f2e1]:
+  - generic [ref=f2e2]:
+    - group "Theme and appearance settings" [ref=f2e4]:
+      - button "Switch to Blue theme" [pressed] [ref=f2e5]:
+        - generic [ref=f2e7]: ✓
+      - button "Switch to Teal theme" [ref=f2e8]
+      - button "Switch to Amber theme" [ref=f2e10]
+      - button "Switch to dark mode" [ref=f2e12]: 🌙
+    - generic [ref=f2e13]:
+      - heading "Create Account" [level=1] [ref=f2e14]
+      - generic [ref=f2e15]:
+        - generic [ref=f2e16]:
+          - generic [ref=f2e17]: Name
+          - textbox "Name" [ref=f2e18]
+        - generic [ref=f2e19]:
+          - generic [ref=f2e20]: Email
+          - textbox "Email" [ref=f2e21]
+        - generic [ref=f2e22]:
+          - generic [ref=f2e23]: Password
+          - generic [ref=f2e24]:
+            - textbox "Password" [ref=f2e25]
+            - button "Show password" [ref=f2e26]: Show
+        - button "Sign Up" [ref=f2e27]
+      - paragraph [ref=f2e28]:
+        - text: Already have an account?
+        - link "Log in" [ref=f2e29] [cursor=pointer]:
+          - /url: /login
+  - button "Open Next.js Dev Tools" [ref=f2e35] [cursor=pointer]

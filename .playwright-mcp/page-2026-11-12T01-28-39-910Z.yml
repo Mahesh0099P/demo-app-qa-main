@@ -1,0 +1,25 @@
+- generic [active] [ref=f4e1]:
+  - generic [ref=f4e2]:
+    - group "Theme and appearance settings" [ref=f4e4]:
+      - button "Switch to Blue theme" [pressed] [ref=f4e5]:
+        - generic [ref=f4e7]: ✓
+      - button "Switch to Teal theme" [ref=f4e8]
+      - button "Switch to Amber theme" [ref=f4e10]
+      - button "Switch to dark mode" [ref=f4e12]: 🌙
+    - generic [ref=f4e13]:
+      - heading "Log In" [level=1] [ref=f4e14]
+      - generic [ref=f4e15]:
+        - generic [ref=f4e16]:
+          - generic [ref=f4e17]: Email
+          - textbox "Email" [ref=f4e18]
+        - generic [ref=f4e19]:
+          - generic [ref=f4e20]: Password
+          - generic [ref=f4e21]:
+            - textbox "Password" [ref=f4e22]
+            - button "Show password" [ref=f4e23]: Show
+        - button "Log In" [ref=f4e24]
+      - paragraph [ref=f4e25]:
+        - text: Don't have an account?
+        - link "Sign up" [ref=f4e26] [cursor=pointer]:
+          - /url: /signup
+  - button "Open Next.js Dev Tools" [ref=f4e32] [cursor=pointer]
